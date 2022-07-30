@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Charles CANTIN
+subtitle: Photographe
 image: img/clouds-ge1f2a167e_1920.jpg
 blurb:
   heading: Why Kaldi?
